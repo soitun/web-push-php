@@ -30,7 +30,6 @@
   "require": {
     "php": ">=8.2",
     "ext-curl": "*",
-    "ext-json": "*",
     "ext-mbstring": "*",
     "ext-openssl": "*",
     "php-http/discovery": "^1.19",
